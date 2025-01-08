@@ -1,0 +1,145 @@
+{
+  "html_attributions": [],
+  "result": {
+    "address_components": [
+      {
+        "long_name": "Lubumbashi",
+        "short_name": "Lu'shi",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Haut-Katanga",
+        "short_name": "Haut-Katanga",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Democratic Republic of the Congo",
+        "short_name": "CD",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "adr_address": "\u003Cspan class=\"locality\"\u003ELubumbashi\u003C/span\u003E, \u003Cspan class=\"country-name\"\u003EDemocratic Republic of the Congo\u003C/span\u003E",
+    "formatted_address": "Lubumbashi, Democratic Republic of the Congo",
+    "geometry": {
+      "location": {
+        "lat": -11.6876026,
+        "lng": 27.5026174
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -11.5624305804822,
+          "lng": 27.6093292753308
+        },
+        "southwest": {
+          "lat": -11.7882535993753,
+          "lng": 27.395053906488
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Lubumbashi",
+    "photos": [
+      {
+        "height": 1920,
+        "html_attributions": [
+          "\u003Ca href=\"https://maps.google.com/maps/contrib/108569292911691520422\"\u003EBertin Kasongo\u003C/a\u003E"
+        ],
+        "photo_reference": "AWYs27zUQo17v38tiZP4Okm64Rb6QOIUUE7SIoNmzc0CK9U0E7z8HH3AOrkHJmY2CqnoB-JrWP0vq9DMd8N2HRU3GI2RuLBt4wuqcQYhBaM_FlHkbWPwl9wO7Rv-rcewQI1qsq-g7myq1L89k15XEHzr8C7odqHtfQlGskIjQd52YQ7njcku",
+        "width": 1080
+      },
+      {
+        "height": 1960,
+        "html_attributions": [
+          "\u003Ca href=\"https://maps.google.com/maps/contrib/111240404938991774884\"\u003ELCyprien Path\u003C/a\u003E"
+        ],
+        "photo_reference": "AWYs27z5TC9OtLKt1J7In45OHPts0M0k8hcHfptuNQLakvcAT5zO756P41ru2c9KApFO0aU-B2--IeEM-0rGbe1pYFnxCT3yOVCXb1XIntRPsxc3waHQRtj_bR5zye2A35ZH4NSwaudTipy-bGNVNrvuTY-IslqNijG8Rlbg90zqkwxQ7-4O",
+        "width": 4032
+      },
+      {
+        "height": 3968,
+        "html_attributions": [
+          "\u003Ca href=\"https://maps.google.com/maps/contrib/101597402547537521630\"\u003ESimiyu Wamalwa\u003C/a\u003E"
+        ],
+        "photo_reference": "AWYs27wwEVQR8-27HGNQlMusaguvxx8VwOTc1n3VeQ2999BOVNKhTeGs2j0jPAXmoWgI-BIbruSO_8mmIqeEYCml3aCE3zs7_Rwj6eIS1ZbOyPEhwUA55fxlwYXtf2uxF4w6ZuwNDRwNJegLu-yQRj1XSIzTzZHKlveSSd93PLMyQPGNlJ2U",
+        "width": 2976
+      },
+      {
+        "height": 420,
+        "html_attributions": [
+          "\u003Ca href=\"https://maps.google.com/maps/contrib/100961693799427739842\"\u003ECongo Mon pays\u003C/a\u003E"
+        ],
+        "photo_reference": "AWYs27wlUQLfRXE650ZmpBywJGkco_6TNwx0Jz-ucr-kIvWB5oKAGzBNHQQodSipwulCnpmwajBT7FCR8WarEWkjQksSb3dWGxoiF0SWa7A1hEwH4TvSb1qTfs-6G10z_7tQIehsppaX5_s8KJkqNoz07dpIhP2JLmc8s5KYCrKYIZuVAXWM",
+        "width": 560
+      },
+      {
+        "height": 630,
+        "html_attributions": [
+          "\u003Ca href=\"https://maps.google.com/maps/contrib/115059806958232003796\"\u003EYannick Tshaka Tshaka\u003C/a\u003E"
+        ],
+        "photo_reference": "AWYs27yJTDy7gBZaxtvcQ-eESTL3r19wLHRkMsJlM85wYIr6QiIMxYoVfuACq25TpnFhHzVkaF-dzNfpktVdERacLMtOcBJnNbq62SxfgZrmyKISsvsQ31dhnzlGsB00eQw50UQfcuokvH-i-NqDckndxHE_bvRtLatFfxHoH59AuY2q42oi",
+        "width": 720
+      },
+      {
+        "height": 1536,
+        "html_attributions": [
+          "\u003Ca href=\"https://maps.google.com/maps/contrib/106926633664012125180\"\u003ECaleb Kawaya\u003C/a\u003E"
+        ],
+        "photo_reference": "AWYs27ypZvqFPCBHBP6bpcBwErifdTP3j52BHCdzuFp1JNWZ7XPIUV2oXpdFKIYTSu6GbrpfB4EhCB9xdB9ISn_qcLm29rO8R6MiBc3JPXR-IWuAqBq27rxKDI7qlAD5vV2mf7s7fXxCrXZl_ydHo5C1ike1rvdxBcHwSeIZRE1S-RluXm1j",
+        "width": 2048
+      },
+      {
+        "height": 960,
+        "html_attributions": [
+          "\u003Ca href=\"https://maps.google.com/maps/contrib/104023369538714495699\"\u003ESubramaniam Ramanathan\u003C/a\u003E"
+        ],
+        "photo_reference": "AWYs27xpATzTC7pM0SRmbNHRxOTb3TUyY3i3Mu4ywBj2r36_apWvC1BnZvVnxsHGUDGODOWPGrV_9IzuLDn0VxWOjPfsxypUJ2im0ckKWSC5zEvDh4Zsfkk_HnN5oAeXZD-5DogpqKlIcKHMh85RMu0qHve_vebiEVFZjisNeakJiGCT-e1e",
+        "width": 1280
+      },
+      {
+        "height": 810,
+        "html_attributions": [
+          "\u003Ca href=\"https://maps.google.com/maps/contrib/113199359676438537928\"\u003EMasemo Priantkn\u003C/a\u003E"
+        ],
+        "photo_reference": "AWYs27zYCQiNTasmt7dl7x2B4WRmeK8yVX6ezi8ZDkDJ8mqNwWd-fwbu0lJ4FylAxnqdtWiswbI1VpElfgJWoJ1uC23u4GNnDUk3sDi1xp4jB33TJGFVaxaDrJgpQfKNko3YG06PjSuTZVK7TUrE1iq8TfoicyPJtvpxPeI6a5q8AoTJQDxc",
+        "width": 1080
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "\u003Ca href=\"https://maps.google.com/maps/contrib/106442852665458019948\"\u003EGeorges Nzuzi\u003C/a\u003E"
+        ],
+        "photo_reference": "AWYs27yJZV9hL40BOfPxOfWAJmpA2Z0V-rDCau81hSRPjdwQoiGJB1Rg-Q8Og9qe-iO_e5ubQYN5q3KOapFq_UjVBTKB-lCyh54EG6Z_eiusW3Fo5QS3226srur3V5nCjDykip-_qS0lE9sWpWkNMt1RN9Cc0JlPJnhTNaa6nL-6S1INfTWU",
+        "width": 4032
+      },
+      {
+        "height": 4608,
+        "html_attributions": [
+          "\u003Ca href=\"https://maps.google.com/maps/contrib/111740241110783022433\"\u003EPeter KAPEMBWA\u003C/a\u003E"
+        ],
+        "photo_reference": "AWYs27y_nyvNtlhLiVL7eCu9LciX2VgILwjK7soj7RCaYWbtUM0UelC2Lq9j8vQpqf0FDRoI5Ws8ESYWZbz6BL5xsSX7PomJo3RhgtLJy8KZyekmDuPQpTQ83bRyladp7hyvYnwcUpxdfYrbOx6r6evY9RY3_Lv0cMV3Mr5Wmr424veQE_jz",
+        "width": 3456
+      }
+    ],
+    "place_id": "ChIJ2ct0SKM-chkRL1uAT6f1xqE",
+    "reference": "ChIJ2ct0SKM-chkRL1uAT6f1xqE",
+    "types": [
+      "locality",
+      "political"
+    ],
+    "url": "https://maps.google.com/?q=Lubumbashi,+Democratic+Republic+of+the+Congo&ftid=0x19723ea34874cbd9:0xa1c6f5a74f805b2f",
+    "utc_offset": 120,
+    "vicinity": "Lubumbashi"
+  },
+  "status": "OK"
+}

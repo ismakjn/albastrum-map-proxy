@@ -1,0 +1,202 @@
+{
+  "result": {
+    "predictions": [
+      {
+        "description": "Lubumbashi, Democratic Republic of the Congo",
+        "matched_substrings": [
+          {
+            "length": 10,
+            "offset": 0
+          }
+        ],
+        "place_id": "ChIJ2ct0SKM-chkRL1uAT6f1xqE",
+        "reference": "ChIJ2ct0SKM-chkRL1uAT6f1xqE",
+        "structured_formatting": {
+          "main_text": "Lubumbashi",
+          "main_text_matched_substrings": [
+            {
+              "length": 10,
+              "offset": 0
+            }
+          ],
+          "secondary_text": "Democratic Republic of the Congo"
+        },
+        "terms": [
+          {
+            "offset": 0,
+            "value": "Lubumbashi"
+          },
+          {
+            "offset": 12,
+            "value": "Democratic Republic of the Congo"
+          }
+        ],
+        "types": [
+          "locality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "description": "Lubumbashi, RDC, Lubumbashi, Democratic Republic of the Congo",
+        "matched_substrings": [
+          {
+            "length": 10,
+            "offset": 0
+          }
+        ],
+        "place_id": "ChIJl1rgRgA_chkRraZLPJX2yZs",
+        "reference": "ChIJl1rgRgA_chkRraZLPJX2yZs",
+        "structured_formatting": {
+          "main_text": "Lubumbashi, RDC",
+          "main_text_matched_substrings": [
+            {
+              "length": 10,
+              "offset": 0
+            }
+          ],
+          "secondary_text": "Lubumbashi, Democratic Republic of the Congo"
+        },
+        "terms": [
+          {
+            "offset": 0,
+            "value": "Lubumbashi, RDC"
+          },
+          {
+            "offset": 17,
+            "value": "Lubumbashi"
+          },
+          {
+            "offset": 29,
+            "value": "Democratic Republic of the Congo"
+          }
+        ],
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "tourist_attraction"
+        ]
+      },
+      {
+        "description": "Lubumbashi, Kinshasa, Democratic Republic of the Congo",
+        "matched_substrings": [
+          {
+            "length": 10,
+            "offset": 0
+          }
+        ],
+        "place_id": "EjZMdWJ1bWJhc2hpLCBLaW5zaGFzYSwgRGVtb2NyYXRpYyBSZXB1YmxpYyBvZiB0aGUgQ29uZ28iLiosChQKEgkPDOQYMjFqGhHuPgG7tkXIMRIUChIJi2oG_jAxahoRjTdSH05-ixY",
+        "reference": "EjZMdWJ1bWJhc2hpLCBLaW5zaGFzYSwgRGVtb2NyYXRpYyBSZXB1YmxpYyBvZiB0aGUgQ29uZ28iLiosChQKEgkPDOQYMjFqGhHuPgG7tkXIMRIUChIJi2oG_jAxahoRjTdSH05-ixY",
+        "structured_formatting": {
+          "main_text": "Lubumbashi",
+          "main_text_matched_substrings": [
+            {
+              "length": 10,
+              "offset": 0
+            }
+          ],
+          "secondary_text": "Kinshasa, Democratic Republic of the Congo"
+        },
+        "terms": [
+          {
+            "offset": 0,
+            "value": "Lubumbashi"
+          },
+          {
+            "offset": 12,
+            "value": "Kinshasa"
+          },
+          {
+            "offset": 22,
+            "value": "Democratic Republic of the Congo"
+          }
+        ],
+        "types": [
+          "geocode",
+          "route"
+        ]
+      },
+      {
+        "description": "Lubumbashi Luano International (FBM), Lubumbashi, Democratic Republic of the Congo",
+        "matched_substrings": [
+          {
+            "length": 10,
+            "offset": 0
+          }
+        ],
+        "place_id": "ChIJmSlRumg4chkRWiyoGhB4xY4",
+        "reference": "ChIJmSlRumg4chkRWiyoGhB4xY4",
+        "structured_formatting": {
+          "main_text": "Lubumbashi Luano International (FBM)",
+          "main_text_matched_substrings": [
+            {
+              "length": 10,
+              "offset": 0
+            }
+          ],
+          "secondary_text": "Lubumbashi, Democratic Republic of the Congo"
+        },
+        "terms": [
+          {
+            "offset": 0,
+            "value": "Lubumbashi Luano International (FBM)"
+          },
+          {
+            "offset": 38,
+            "value": "Lubumbashi"
+          },
+          {
+            "offset": 50,
+            "value": "Democratic Republic of the Congo"
+          }
+        ],
+        "types": [
+          "point_of_interest",
+          "establishment",
+          "airport"
+        ]
+      },
+      {
+        "description": "Lubumbashi, Dar es Salaam, Tanzania",
+        "matched_substrings": [
+          {
+            "length": 10,
+            "offset": 0
+          }
+        ],
+        "place_id": "ChIJOXKs0aZFXBgR_3MpOAw4asI",
+        "reference": "ChIJOXKs0aZFXBgR_3MpOAw4asI",
+        "structured_formatting": {
+          "main_text": "Lubumbashi",
+          "main_text_matched_substrings": [
+            {
+              "length": 10,
+              "offset": 0
+            }
+          ],
+          "secondary_text": "Dar es Salaam, Tanzania"
+        },
+        "terms": [
+          {
+            "offset": 0,
+            "value": "Lubumbashi"
+          },
+          {
+            "offset": 12,
+            "value": "Dar es Salaam"
+          },
+          {
+            "offset": 27,
+            "value": "Tanzania"
+          }
+        ],
+        "types": [
+          "point_of_interest",
+          "night_club",
+          "establishment"
+        ]
+      }
+    ],
+    "status": "OK"
+  }
+}

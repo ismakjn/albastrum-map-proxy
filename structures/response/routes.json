@@ -1,0 +1,457 @@
+{
+  "query": {
+    "origin": "-11.6876026,27.5026174",
+    "destination": "-11.5888131,27.5314761"
+  },
+  "result": {
+    "geocoded_waypoints": [
+      {
+        "geocoder_status": "OK",
+        "place_id": "ChIJGSGwCn4_chkRubYxFSP1uhA",
+        "types": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "geocoder_status": "OK",
+        "place_id": "ChIJHZZcWMM5chkRFsOkqwmpEx4",
+        "types": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ],
+    "routes": [
+      {
+        "bounds": {
+          "northeast": {
+            "lat": -11.5875924,
+            "lng": 27.5314786
+          },
+          "southwest": {
+            "lat": -11.6876665,
+            "lng": 27.4857089
+          }
+        },
+        "copyrights": "Map data ©2025",
+        "legs": [
+          {
+            "distance": {
+              "text": "15.4 km",
+              "value": 15393
+            },
+            "duration": {
+              "text": "31 mins",
+              "value": 1838
+            },
+            "end_address": "CG6J+FHH, Lubumbashi, Democratic Republic of the Congo",
+            "end_location": {
+              "lat": -11.5885948,
+              "lng": 27.5314786
+            },
+            "start_address": "8G63+X25, Lubumbashi, Democratic Republic of the Congo",
+            "start_location": {
+              "lat": -11.6876665,
+              "lng": 27.5024705
+            },
+            "steps": [
+              {
+                "distance": {
+                  "text": "0.3 km",
+                  "value": 323
+                },
+                "duration": {
+                  "text": "1 min",
+                  "value": 66
+                },
+                "end_location": {
+                  "lat": -11.6870338,
+                  "lng": 27.499823
+                },
+                "html_instructions": "Head \u003Cb\u003Enorthwest\u003C/b\u003E",
+                "polyline": {
+                  "points": "|vifAmqzfDc@NQDGBA@A@AB?@@H@FBJB\\BJFP@DFN@D@B?HALCNMj@SbAOz@ETKp@QhAEL"
+                },
+                "start_location": {
+                  "lat": -11.6876665,
+                  "lng": 27.5024705
+                },
+                "travel_mode": "DRIVING"
+              },
+              {
+                "distance": {
+                  "text": "0.2 km",
+                  "value": 242
+                },
+                "duration": {
+                  "text": "1 min",
+                  "value": 51
+                },
+                "end_location": {
+                  "lat": -11.6860491,
+                  "lng": 27.4979672
+                },
+                "html_instructions": "Turn \u003Cb\u003Eright\u003C/b\u003E",
+                "maneuver": "turn-right",
+                "polyline": {
+                  "points": "|rifA{`zfDI@C?C@EBC@CDKRUj@GNA@A@C@A@E@A@IBG@C@A@?@ADQz@Q|@Ot@K`@M`@"
+                },
+                "start_location": {
+                  "lat": -11.6870338,
+                  "lng": 27.499823
+                },
+                "travel_mode": "DRIVING"
+              },
+              {
+                "distance": {
+                  "text": "0.1 km",
+                  "value": 103
+                },
+                "duration": {
+                  "text": "1 min",
+                  "value": 25
+                },
+                "end_location": {
+                  "lat": -11.6867824,
+                  "lng": 27.4973997
+                },
+                "html_instructions": "Turn \u003Cb\u003Eleft\u003C/b\u003E toward \u003Cb\u003ERte Don Bosco\u003C/b\u003E",
+                "maneuver": "turn-left",
+                "polyline": {
+                  "points": "xlifAiuyfDHD`@Zd@XB@VRLNTN"
+                },
+                "start_location": {
+                  "lat": -11.6860491,
+                  "lng": 27.4979672
+                },
+                "travel_mode": "DRIVING"
+              },
+              {
+                "distance": {
+                  "text": "2.0 km",
+                  "value": 2047
+                },
+                "duration": {
+                  "text": "5 mins",
+                  "value": 285
+                },
+                "end_location": {
+                  "lat": -11.670902,
+                  "lng": 27.4879754
+                },
+                "html_instructions": "Turn \u003Cb\u003Eright\u003C/b\u003E onto \u003Cb\u003ERte Don Bosco\u003C/b\u003E",
+                "maneuver": "turn-right",
+                "polyline": {
+                  "points": "jqifAwqyfDABOJ_@X[T_Ap@mBjA{@d@]RE@g@X]Pa@Ru@ZYJy@`@q@\\YNo@ZC@WNEB[R]TUPw@j@UPsAv@qAz@e@ZOHm@\\c@Xa@Vc@Xi@ZYLo@VEBcCfAw@^]Lo@V{@^C@}@b@yCvAg@Pk@RaHxCy@^m@XmEhBsCjAeChAmBz@yCpA"
+                },
+                "start_location": {
+                  "lat": -11.6867824,
+                  "lng": 27.4973997
+                },
+                "travel_mode": "DRIVING"
+              },
+              {
+                "distance": {
+                  "text": "93 m",
+                  "value": 93
+                },
+                "duration": {
+                  "text": "1 min",
+                  "value": 27
+                },
+                "end_location": {
+                  "lat": -11.6705042,
+                  "lng": 27.4887219
+                },
+                "html_instructions": "Turn \u003Cb\u003Eright\u003C/b\u003E",
+                "maneuver": "turn-right",
+                "polyline": {
+                  "points": "bnffA{vwfDoAsC"
+                },
+                "start_location": {
+                  "lat": -11.670902,
+                  "lng": 27.4879754
+                },
+                "travel_mode": "DRIVING"
+              },
+              {
+                "distance": {
+                  "text": "76 m",
+                  "value": 76
+                },
+                "duration": {
+                  "text": "1 min",
+                  "value": 30
+                },
+                "end_location": {
+                  "lat": -11.6698391,
+                  "lng": 27.4886879
+                },
+                "html_instructions": "Turn \u003Cb\u003Eleft\u003C/b\u003E",
+                "maneuver": "turn-left",
+                "polyline": {
+                  "points": "rkffAo{wfDYEMA{@A_@N"
+                },
+                "start_location": {
+                  "lat": -11.6705042,
+                  "lng": 27.4887219
+                },
+                "travel_mode": "DRIVING"
+              },
+              {
+                "distance": {
+                  "text": "0.4 km",
+                  "value": 371
+                },
+                "duration": {
+                  "text": "1 min",
+                  "value": 62
+                },
+                "end_location": {
+                  "lat": -11.6665157,
+                  "lng": 27.4883488
+                },
+                "html_instructions": "Slight \u003Cb\u003Eright\u003C/b\u003E",
+                "maneuver": "turn-slight-right",
+                "polyline": {
+                  "points": "ngffAi{wfDyAF{AFqAF_BH}BLqDR"
+                },
+                "start_location": {
+                  "lat": -11.6698391,
+                  "lng": 27.4886879
+                },
+                "travel_mode": "DRIVING"
+              },
+              {
+                "distance": {
+                  "text": "0.3 km",
+                  "value": 285
+                },
+                "duration": {
+                  "text": "1 min",
+                  "value": 71
+                },
+                "end_location": {
+                  "lat": -11.6642131,
+                  "lng": 27.4880949
+                },
+                "html_instructions": "At the roundabout, take the \u003Cb\u003E3rd\u003C/b\u003E exit onto \u003Cb\u003EAve Patrice Emery Lumumba\u003C/b\u003E",
+                "maneuver": "roundabout-right",
+                "polyline": {
+                  "points": "vrefAeywfDACAE?CCCACCCACECCAC?EAC?C?C?C@C@C?EDCBC@ABABAB?BAB?B?B?BmGZmBL"
+                },
+                "start_location": {
+                  "lat": -11.6665157,
+                  "lng": 27.4883488
+                },
+                "travel_mode": "DRIVING"
+              },
+              {
+                "distance": {
+                  "text": "0.2 km",
+                  "value": 190
+                },
+                "duration": {
+                  "text": "1 min",
+                  "value": 41
+                },
+                "end_location": {
+                  "lat": -11.6625144,
+                  "lng": 27.4879618
+                },
+                "html_instructions": "Continue onto \u003Cb\u003EN1\u003C/b\u003E",
+                "polyline": {
+                  "points": "hdefAqwwfDY@YB_@BE?_CHm@DMB}@C"
+                },
+                "start_location": {
+                  "lat": -11.6642131,
+                  "lng": 27.4880949
+                },
+                "travel_mode": "DRIVING"
+              },
+              {
+                "distance": {
+                  "text": "2.5 km",
+                  "value": 2502
+                },
+                "duration": {
+                  "text": "5 mins",
+                  "value": 308
+                },
+                "end_location": {
+                  "lat": -11.6401752,
+                  "lng": 27.4857571
+                },
+                "html_instructions": "At the roundabout, take the \u003Cb\u003E2nd\u003C/b\u003E exit onto \u003Cb\u003EAv. Lumumba\u003C/b\u003E/\u003Cwbr/\u003E\u003Cb\u003EN1\u003C/b\u003E",
+                "maneuver": "roundabout-right",
+                "polyline": {
+                  "points": "tydfAwvwfDAAAAAACAA?CAA?C?C?A?C?A?C@A?C@A@CBA@A@A@A@U@a@BM@W@qBHaCLuH^iAFkAHyCLuCLy@D}ALg@BaKh@wI`@qBHqDPaDNgBJoH`@mADyJh@}BL{BJ_CJmAFoER_FP_AFw@Cy@E"
+                },
+                "start_location": {
+                  "lat": -11.6625144,
+                  "lng": 27.4879618
+                },
+                "travel_mode": "DRIVING"
+              },
+              {
+                "distance": {
+                  "text": "5.1 km",
+                  "value": 5082
+                },
+                "duration": {
+                  "text": "8 mins",
+                  "value": 507
+                },
+                "end_location": {
+                  "lat": -11.5988926,
+                  "lng": 27.4970242
+                },
+                "html_instructions": "At the roundabout, take the \u003Cb\u003E1st\u003C/b\u003E exit onto \u003Cb\u003EBlvd M'Siri\u003C/b\u003E/\u003Cwbr/\u003E\u003Cb\u003EN1\u003C/b\u003E",
+                "maneuver": "roundabout-right",
+                "polyline": {
+                  "points": "bn`fA_iwfDQEy@O{A_AkAs@oHkEiUgN_HaEwD}BqFcDsAy@wBmA[Sc@Uy@[{Ao@kBs@{@Wa@M[EaAMk@EO?UAaA@[@Y@k@DiAJ}Hf@yF^eDTwCPsDTcBNoCPcId@oCPcIf@}In@u@DuAHmMv@qGb@mAD{AHoBHqAJiABm@?G?i@Aw@CiAOiAQy@Uu@Uo@Ys@]y@g@y@o@y@u@][A?sAmAaGiFuAkAaBwAm@i@u@o@MMMMMMKMKMQWYa@[o@"
+                },
+                "start_location": {
+                  "lat": -11.6401752,
+                  "lng": 27.4857571
+                },
+                "travel_mode": "DRIVING"
+              },
+              {
+                "distance": {
+                  "text": "0.3 km",
+                  "value": 320
+                },
+                "duration": {
+                  "text": "1 min",
+                  "value": 25
+                },
+                "end_location": {
+                  "lat": -11.598021,
+                  "lng": 27.4998173
+                },
+                "html_instructions": "Continue straight",
+                "maneuver": "straight",
+                "polyline": {
+                  "points": "`lxeAkoyfDCOCII[GOEGAEGEOw@m@aDc@aCa@yB"
+                },
+                "start_location": {
+                  "lat": -11.5988926,
+                  "lng": 27.4970242
+                },
+                "travel_mode": "DRIVING"
+              },
+              {
+                "distance": {
+                  "text": "3.5 km",
+                  "value": 3538
+                },
+                "duration": {
+                  "text": "5 mins",
+                  "value": 294
+                },
+                "end_location": {
+                  "lat": -11.5880405,
+                  "lng": 27.530116
+                },
+                "html_instructions": "Continue straight",
+                "maneuver": "straight",
+                "polyline": {
+                  "points": "rfxeA{`zfDQ{@?E[eBGWSeAKk@?Ac@}Ba@wBCIeAcGcAsFe@eCg@kCoAsGUiAWcAa@sAa@oAAEw@aCSq@Oc@{@gCM]qBkGK[gBsFw@_CACCI_DoJYy@EMSm@m@kBc@wA]gAs@wBCGkCaIg@{AuAgEwAiEACk@gBg@}A_@kAY}@]cAW{@a@qAe@yAEO]gAGe@Ca@C[?i@BY?E@ID[d@eBPm@Po@BIT_AFS@U?OAOCQACCKGSK]"
+                },
+                "start_location": {
+                  "lat": -11.598021,
+                  "lng": 27.4998173
+                },
+                "travel_mode": "DRIVING"
+              },
+              {
+                "distance": {
+                  "text": "76 m",
+                  "value": 76
+                },
+                "duration": {
+                  "text": "1 min",
+                  "value": 16
+                },
+                "end_location": {
+                  "lat": -11.5886569,
+                  "lng": 27.5304165
+                },
+                "html_instructions": "Turn \u003Cb\u003Eright\u003C/b\u003E",
+                "maneuver": "turn-right",
+                "polyline": {
+                  "points": "fhveAg~_gDb@Mz@_@ZM"
+                },
+                "start_location": {
+                  "lat": -11.5880405,
+                  "lng": 27.530116
+                },
+                "travel_mode": "DRIVING"
+              },
+              {
+                "distance": {
+                  "text": "0.1 km",
+                  "value": 112
+                },
+                "duration": {
+                  "text": "1 min",
+                  "value": 21
+                },
+                "end_location": {
+                  "lat": -11.5883205,
+                  "lng": 27.5313744
+                },
+                "html_instructions": "Turn \u003Cb\u003Eleft\u003C/b\u003E",
+                "maneuver": "turn-left",
+                "polyline": {
+                  "points": "blveAc``gD?YcAcD"
+                },
+                "start_location": {
+                  "lat": -11.5886569,
+                  "lng": 27.5304165
+                },
+                "travel_mode": "DRIVING"
+              },
+              {
+                "distance": {
+                  "text": "33 m",
+                  "value": 33
+                },
+                "duration": {
+                  "text": "1 min",
+                  "value": 9
+                },
+                "end_location": {
+                  "lat": -11.5885948,
+                  "lng": 27.5314786
+                },
+                "html_instructions": "Turn \u003Cb\u003Eright\u003C/b\u003E",
+                "maneuver": "turn-right",
+                "polyline": {
+                  "points": "~iveAaf`gDt@U"
+                },
+                "start_location": {
+                  "lat": -11.5883205,
+                  "lng": 27.5313744
+                },
+                "travel_mode": "DRIVING"
+              }
+            ],
+            "traffic_speed_entry": [],
+            "via_waypoint": []
+          }
+        ],
+        "overview_polyline": {
+          "points": "|vifAmqzfD_AZCD@JL|@Rl@@LE\\w@`E]zBELI@G@IDm@tAIF_@Le@`C[vAM`@HDfAt@ZTb@^QN{@n@mD|BgCtA_Ad@oAf@uDjB}@h@aCdB{ExCwChBcAh@u@ZiGlCwG|CsAd@{IxDuOxGgGlCoAsCYEiAC_@NyAFmDN}EVqDRACAIKOSGO@QJILAN?BmGZgCN_EP{@H_AEGEKAWDIHgAHaQx@eMl@aQ`A}WlA_Z|AgMl@oLd@_AFw@Cy@EQEy@O{A_A{J_Gi^iTiLaHkEgC_Ai@uCkAgDkA}@SmBSe@AwBDuBPwPfAuQlAg\\pBw\\vB_Jh@kER{CNu@?aBEsCa@oBk@cBw@y@g@y@o@wAqAmLcKsE_Es@w@k@y@[o@COMe@MWIK}@yEwA}HmCqNwEiWeB}Iy@wCoBiGkEuMqJuYcCyHkF}O{IiXeBwF]gAKgACeAB_@Fe@v@sCr@mC@e@Ea@YaA~Am@ZM?YcAcDt@U"
+        },
+        "summary": "Blvd M'Siri/N1",
+        "warnings": [],
+        "waypoint_order": []
+      }
+    ],
+    "status": "OK"
+  },
+  "status": "success"
+}
